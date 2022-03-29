@@ -31,7 +31,7 @@
 <a href="https://twitter.com/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developervijay7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developervijay7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="developervijay7" height="30" width="40" /></a>
-<a href="https://fb.com/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developervijay7" height="30" width="40" /></a>
+<a href="https://fb.com/developervijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developervijay7" height="30" width="40" /></a>
 <a href="https://instagram.com/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developervijay7" height="30" width="40" /></a>
 </p>
 
