@@ -51,6 +51,76 @@
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 9 Contributions in the Year 2022
+ > 
+> 📦 32.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+🌆 Daytime    34 commits     ████████████░░░░░░░░░░░░░   48.57% 
+🌃 Evening    23 commits     ████████░░░░░░░░░░░░░░░░░   32.86% 
+🌙 Night      6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       13 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
+Tuesday      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Wednesday    13 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
+Thursday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+Friday       15 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Saturday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Sunday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Blade** 
+
+```text
+Blade                    3 repos             ███████████████░░░░░░░░░░   60.0% 
+PHP                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/developervijay7/developervijay7/main/charts/bar_graph.png) 
+
+
+ Last Updated on 01/04/2022 18:44:46 UTC
 <!--END_SECTION:waka-->
 
