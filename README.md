@@ -49,3 +49,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&" alt="developervijay7" /></p>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
