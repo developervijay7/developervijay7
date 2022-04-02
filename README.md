@@ -41,7 +41,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/hexpit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developervijay7" /></a><a href="https://ko-fi.com/hexpit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="developervijay7" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hexpit"> <img align="left" src="https://ci5.googleusercontent.com/proxy/bUcfJu5843uyZkufO2ah5B0cSK9zAEiPrnrMmAIrGgdi6Y2nS4VMINilrSPkWV4_wSOkz5kiWzk82Odgt4yAOLQ5zez5BiqBun0PORk6uyTFgx2tLYLMkQfZ=s0-d-e1-ft#https://cdn.buymeacoffee.com/assets/img/email-template/bmc-new-logo.png" height="50" width="210" alt="developervijay7" /></a><a href="https://ko-fi.com/hexpit"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="developervijay7" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&locale=en&layout=compact" alt="developervijay7" /></p>
 
