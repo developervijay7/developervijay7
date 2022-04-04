@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hello Devs 👋, It's Vijay Goswami</h1>
+# Hello Devs 👋, It's Vijay Goswami
 <h3 align="center">I am a Full Stack Developer from India. I love to work on TALL Stack.</h3>
 
 - 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio) and [Laravel-QuickStart](https://laravel-quickstart.co)
