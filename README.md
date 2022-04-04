@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15" />
+  </a>
 </p>
 
 <h1 align="center">Hello Devs 👋, It's Vijay Goswami</h1>
