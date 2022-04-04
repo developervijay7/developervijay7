@@ -32,7 +32,7 @@
 <!--- Social Icons --->
 <p align="left">
   <a href="https://fb.com/developervijay" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/blob/main/images/icons/facebook.svg" alt="developervijay7" height="50" width="50" />
+  <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/facebook.svg" alt="developervijay7" height="50" width="50" />
   </a>
   <a href="https://codepen.io/developervijay7" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developervijay7" height="30" width="40" />
