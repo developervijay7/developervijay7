@@ -1,9 +1,7 @@
 <h1 align="center">Hello Devs 👋, It's Vijay Goswami</h1>
 <h3 align="center">I am a Full Stack Developer from India. I love to work on TALL Stack.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=developervijay7&label=Profile%20views&color=0e75b6&style=flat" alt="developervijay7" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark)]
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developervijay7" alt="developervijay7" />
