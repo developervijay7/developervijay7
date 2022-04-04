@@ -105,8 +105,12 @@
 ## GitHub Stats Cards
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=dark&fire=pink" alt="developervijay7" />
+</p>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula" />
- 
+</p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact" alt="developervijay7" />
 </p>
 
 
