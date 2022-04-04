@@ -191,6 +191,9 @@
     <a href="https://ko-fi.com/hexpit"> 
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="developervijay7" />
     </a>
+    <a href="https://ko-fi.com/hexpit"> 
+        <img align="left" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/buttons/become_sponsor-oc.svg" height="50" width="210" alt="developervijay7" />
+    </a>
 </p>
 
 <br><br>
