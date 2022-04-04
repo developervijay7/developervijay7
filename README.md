@@ -34,20 +34,23 @@
   <a href="https://fb.com/developervijay" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/facebook.svg" alt="developervijay7" height="50" width="50" />
   </a>
+  <a href="https://twitter.com/developervijay7" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/twitter.svg" alt="developervijay7" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/hexpit/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/linked-in-alt.svg" alt="developervijay7" height="50" width="50" />
+  </a>
+  <a href="https://instagram.com/developervijay" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/instagram.svg" alt="developervijay7" height="50" width="50" />
+  </a>
+  <a href="#" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/youtube.svg" alt="developervijay7" height="50" width="50" />
+  </a>
   <a href="https://codepen.io/developervijay7" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developervijay7" height="30" width="40" />
   </a>
-<a href="https://twitter.com/developervijay7" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developervijay7" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/hexpit/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developervijay7" height="30" width="40" />
-  </a>
   <a href="https://stackoverflow.com/users/developervijay7" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="developervijay7" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/developervijay" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developervijay7" height="30" width="40" />
   </a>
 </p>
 <!--- /Social Icons --->
