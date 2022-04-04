@@ -205,14 +205,14 @@
  <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/developervijay7#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=gruvbox" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/developervijay7#gh-light-mode-only">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/developervijay7#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact&theme=gruvbox" alt="My GitHub Stats" />
 </a>
 
 ## GitHub Stats
