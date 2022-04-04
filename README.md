@@ -225,17 +225,17 @@
 ## My Pinned Repositories
 
 <a href="https://github.com/developervijay7#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-quickstart&show_owner" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-quickstart&show_owner=true" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/developervijay7#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-quickstart&show_owner&theme=radical" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-quickstart&show_owner=true&theme=radical" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/developervijay7#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-icons&show_owner" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-icons&show_owner=true" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/developervijay7#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-icons&show_owner&theme=radical" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-icons&show_owner=true&theme=radical" alt="My GitHub Stats" />
 </a>
 
 
