@@ -222,6 +222,16 @@
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexpit&theme=radical" alt="My GitHub Stats" />
 </a>
 
+## GitHub Pinned Repositories
+
+<a href="https://github.com/developervijay7#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-quickstart" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/developervijay7#gh-dark-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=developervijay7&repo=laravel-quickstart" alt="My GitHub Stats" />
+</a>
+
+
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
