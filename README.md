@@ -30,7 +30,7 @@
 
 ## Connect with me:
 <!--- Social Icons --->
-<p align="left">
+<p align="center">
   <a href="https://facebook.com/developervijay">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/facebook.svg" alt="developervijay7" height="50" width="50" />
   </a>
