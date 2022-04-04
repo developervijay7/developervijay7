@@ -194,8 +194,13 @@
 
 ## GitHub Stats Cards
 
-![github streak stats card](https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&fire=pink#gh-light-mode-only)
-![github streak stats card](https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=dark&fire=pink#gh-dark-mode-only)
+<a href="https://github.com/itaditya#gh-light-mode-only">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&fire=pink" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/itaditya#gh-light-mode-only">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=dark&fire=pink" alt="My GitHub Stats" />
+</a>
+
 ![github stats card](https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true#gh-light-mode-only)
 ![github stats card](https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula#gh-dark-mode-only)
 ![github top languages card](https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact#gh-light-mode-only)
