@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15" />
 </p>
 
 # Hello Devs 👋, It's Vijay Goswami
@@ -23,8 +23,8 @@
 - 📄 Know about my experiences [https://vijaygoswami.in](https://vijaygoswami.in)
 
 <p>
-  <a href="https://twitter.com/developervijay7" target="blank">
-  <img src="https://img.shields.io/twitter/follow/developervijay7?logo=twitter&style=for-the-badge" alt="developervijay7" /></a>
+    <a href="https://twitter.com/developervijay7" target="blank">
+    <img src="https://img.shields.io/twitter/follow/developervijay7?logo=twitter&style=for-the-badge" alt="developervijay7" /></a>
 </p>
 
 ## Connect with me:
