@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full Stack Developer from India. I love to work on TALL Stack.</h3>
 
 <p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15)
+  <img src="https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15" />
 </p>
 
 <p align="right">
