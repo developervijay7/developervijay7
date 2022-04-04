@@ -21,12 +21,12 @@
 
 - 📄 Know about my experiences [https://vijaygoswami.in](https://vijaygoswami.in)
 
-<p align="right">
+<p>
   <a href="https://twitter.com/developervijay7" target="blank">
   <img src="https://img.shields.io/twitter/follow/developervijay7?logo=twitter&style=for-the-badge" alt="developervijay7" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
 <p align="left">
   
