@@ -1,8 +1,9 @@
 <h1 align="center">Hello Devs 👋, It's Vijay Goswami</h1>
 <h3 align="center">I am a Full Stack Developer from India. I love to work on TALL Stack.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark)]
-
+<div align="center">
+![trophy](https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15)
+</div>
 <p align="right">
   <a href="https://twitter.com/developervijay7" target="blank">
   <img src="https://img.shields.io/twitter/follow/developervijay7?logo=twitter&style=for-the-badge" alt="developervijay7" /></a>
