@@ -216,10 +216,10 @@
 </a>
 
 <a href="https://github.com/developervijay7#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=developervijay7" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexpit" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/developervijay7#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=developervijay7&theme=radical" alt="My GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexpit&theme=radical" alt="My GitHub Stats" />
 </a>
 
 ## GitHub Stats
