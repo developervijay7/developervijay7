@@ -248,17 +248,15 @@
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2023%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-274-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-335-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2022
+> 🏆 42 Contributions in the Year 2022
  > 
-> 📦 33.7 kB Used in GitHub's Storage 
+> 📦 33.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -269,22 +267,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-🌆 Daytime    40 commits     ████████████░░░░░░░░░░░░░   48.19% 
-🌃 Evening    24 commits     ███████░░░░░░░░░░░░░░░░░░   28.92% 
-🌙 Night      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46%
+🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+🌆 Daytime    40 commits     ████████████░░░░░░░░░░░░░   47.62% 
+🌃 Evening    25 commits     ███████░░░░░░░░░░░░░░░░░░   29.76% 
+🌙 Night      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       16 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
-Tuesday      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-Wednesday    13 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-Thursday     9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-Friday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-Saturday     14 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-Sunday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46%
+Monday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   20.24% 
+Tuesday      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Wednesday    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Thursday     9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Friday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Saturday     14 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Sunday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
@@ -330,7 +328,7 @@ Blade                    3 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/developervijay7/developervijay7/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/04/2022 14:25:09 UTC
+ Last Updated on 04/04/2022 18:45:16 UTC
 <!--END_SECTION:waka-->
 
 [![Vijay Goswami's github activity graph](https://activity-graph.herokuapp.com/graph?username=developervijay7&theme=dracula)](https://github.com/developervijay7/github-readme-activity-graph)
