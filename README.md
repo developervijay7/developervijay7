@@ -52,6 +52,9 @@
   <a href="https://stackoverflow.com/users/developervijay7">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/stack-overflow.svg" alt="developervijay7" height="50" width="50" />
   </a>
+  <a href="https://dev.to/developervijay7">
+  <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/devto.svg" alt="developervijay7" height="50" width="50" />
+  </a>
 </p>
 <!--- /Social Icons --->
 
