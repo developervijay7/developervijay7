@@ -31,25 +31,25 @@
 ## Connect with me:
 <!--- Social Icons --->
 <p align="left">
-  <a href="https://fb.com/developervijay" target="blank">
+  <a href="https://facebook.com/developervijay" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/facebook.svg" alt="developervijay7" height="50" width="50" />
   </a>
-  <a href="https://twitter.com/developervijay7" target="blank">
+  <a href="https://twitter.com/developervijay7" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/twitter.svg" alt="developervijay7" height="50" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/hexpit/" target="blank">
+  <a href="https://www.linkedin.com/in/hexpit/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/linked-in-alt.svg" alt="developervijay7" height="50" width="50" />
   </a>
-  <a href="https://instagram.com/developervijay" target="blank">
+  <a href="https://instagram.com/developervijay" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/instagram.svg" alt="developervijay7" height="50" width="50" />
   </a>
   <a href="#" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/youtube.svg" alt="developervijay7" height="50" width="50" />
   </a>
-  <a href="https://codepen.io/developervijay7" target="blank">
+  <a href="https://codepen.io/developervijay7" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/codepen.svg" alt="developervijay7" height="50" width="50" />
   </a>
-  <a href="https://stackoverflow.com/users/developervijay7" target="blank">
+  <a href="https://stackoverflow.com/users/developervijay7" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/stack-overflow.svg" alt="developervijay7" height="50" width="50" />
   </a>
 </p>
