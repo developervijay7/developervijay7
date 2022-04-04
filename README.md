@@ -5,9 +5,9 @@
 <h1 align="center">Hello Devs 👋, It's Vijay Goswami</h1>
 <h3 align="center">I am a Full Stack Developer from India. I love to work on TALL Stack.</h3>
 
-- 🔭 I’m currently working on [CollegeFind](https://collegefind.in)
+- 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio) and [Laravel-QuickStart](https://laravel-quickstart.co)
 
-- 🌱 I’m currently learning **TailwindCSS, AlpineJS, Laravel, Livewire**
+- 🌱 I’m currently learning **[TailwindCSS](), [AlpineJS](), [Laravel](), [Livewire]()**
 
 - 👯 I’m looking to collaborate on [Laravel-QuickStart](https://github.com/developervijay7/laravel-icons)
 
@@ -30,7 +30,9 @@
 
 <p align="left">
   
-<a href="https://codepen.io/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developervijay7" height="30" width="40" /></a>
+<a href="https://codepen.io/developervijay7" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developervijay7" height="30" width="40" />
+  </a>
 <a href="https://twitter.com/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developervijay7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hexpit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developervijay7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/developervijay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="developervijay7" height="30" width="40" /></a>
