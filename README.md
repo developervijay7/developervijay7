@@ -3,11 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark)]
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developervijay7" alt="developervijay7" />
-  </a>
-</p>
-
 <p align="right">
   <a href="https://twitter.com/developervijay7" target="blank">
   <img src="https://img.shields.io/twitter/follow/developervijay7?logo=twitter&style=for-the-badge" alt="developervijay7" /></a>
