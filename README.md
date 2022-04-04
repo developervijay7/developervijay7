@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=developervijay7&theme=onedark&margin-w=15" />
 </p>
 
 # Hello Devs 👋, It's Vijay Goswami
@@ -105,12 +103,12 @@
 <br><br>
 
 ## GitHub Stats Cards
-[![Vijay Goswami's GitHub stats](https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula" />
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&locale=en&layout=compact" alt="developervijay7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developervijay7&show_icons=true&locale=en" alt="developervijay7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&" alt="developervijay7" /></p>
 
