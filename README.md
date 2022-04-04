@@ -194,7 +194,7 @@
 
 ## GitHub Stats Cards
 
-![github streak stats card](https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=dark&fire=pink" alt="developervijay7)
+![github streak stats card](https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=dark&fire=pink)
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula" />
