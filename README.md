@@ -194,10 +194,10 @@
 
 ## GitHub Stats Cards
 
-<a href="https://github.com/itaditya#gh-light-mode-only">
+<a href="https://github.com/developervijay7#gh-light-mode-only">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&fire=pink" alt="My GitHub Stats" />
 </a>
-<a href="https://github.com/itaditya#gh-light-mode-only">
+<a href="https://github.com/developervijay7#gh-dark-mode-only">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=dark&fire=pink" alt="My GitHub Stats" />
 </a>
 
