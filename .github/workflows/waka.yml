@@ -14,3 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_BY_ME: true
+          SHOW_UPDATED_DATE: true
+          SHOW_LINES_OF_CODE: true
+          
