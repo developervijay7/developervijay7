@@ -104,7 +104,15 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&locale=en&layout=compact" alt="developervijay7" /></p>
+[![Vijay Goswami's GitHub stats](https://github-readme-stats.vercel.app/api?username=developervijay7)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&locale=en&layout=compact" alt="developervijay7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developervijay7&show_icons=true&locale=en" alt="developervijay7" /></p>
 
