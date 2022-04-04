@@ -5,7 +5,7 @@
 </p>
 
 # Hello Devs 👋, It's Vijay Goswami
-<h3 align="center">I am a Full Stack Developer from India. I love to work on TALL Stack.</h3>
+### I am a Full Stack Developer from India. I love to work on TALL Stack.
 
 - 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio) and [Laravel-QuickStart](https://laravel-quickstart.co)
 
