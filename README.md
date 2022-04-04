@@ -183,10 +183,10 @@
 
 <p>
     <a href="https://www.buymeacoffee.com/hexpit#gh-light-mode-only"> 
-        <img align="left" src="https://github.com/developervijay7/developervijay7/main/images/buttons/bmc-white-button.png" height="50" width="210" alt="developervijay7" />
+        <img align="left" src="raw.githubusercontent.com/developervijay7/developervijay7/main/images/buttons/bmc-white-button.png" height="50" width="210" alt="developervijay7" />
     </a>
     <a href="https://www.buymeacoffee.com/hexpit#gh-dark-mode-only"> 
-        <img align="left" src="https://github.com/developervijay7/developervijay7/main/images/buttons/bmc-black-button.png" height="50" width="210" alt="developervijay7" />
+        <img align="left" src="raw.githubusercontent.com/developervijay7/developervijay7/main/images/buttons/bmc-black-button.png" height="50" width="210" alt="developervijay7" />
     </a>
     <a href="https://ko-fi.com/hexpit"> 
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="developervijay7" />
