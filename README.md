@@ -113,6 +113,7 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact" alt="developervijay7" />
 </p>
 
+<br><br>
 
 ## GitHub Stats
 <!--START_SECTION:waka-->
