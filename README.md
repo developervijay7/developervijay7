@@ -195,15 +195,8 @@
 ## GitHub Stats Cards
 
 ![github streak stats card](https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=dark&fire=pink)
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula" />
-</p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact" alt="developervijay7" />
-</p>
-
-<br><br>
+![github stats card](https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=dracula)
+![github top languages card](https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact)
 
 ## GitHub Stats
 
