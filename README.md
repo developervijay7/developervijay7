@@ -6,7 +6,7 @@
 
 ### I am a Full Stack Developer from India. I love to work on TALL Stack.
 
-- 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio) and [Laravel-QuickStart](https://laravel-quickstart.co)
+- 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio) and [Laravel-QuickStart](https://laravel-quickstart.com)
 
 - 🌱 I’m currently learning **[TailwindCSS](), [AlpineJS](), [Laravel](), [Livewire]()**
 
