@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [http://dashboard.attrixtech.com](http://dashboard.attrixtech.com)
 
-- 📝 I regularly write articles on [https://blog.technovij.com](https://blog.technovij.com)
+- 📝 I regularly write articles on [https://technovij.com](https://technovij.com)
 
 - 💬 Ask me about **php, reactjs, react-native, alpinejs, laravel, livewire, tailwindcss, vb.net, nextjs, aws**
 
