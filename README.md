@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vijaygoswami@attrixtech.com**
 
-- 📄 Know about my experiences [https://vijaygoswami.in](https://vijaygoswami.in)
+- 📄 Know about my experiences [https://vijaygoswami.com](https://vijaygoswami.com)
 
 <p>
     <a href="https://twitter.com/developervijay7" target="blank">
