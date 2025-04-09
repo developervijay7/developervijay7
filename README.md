@@ -29,7 +29,7 @@
 
 ## Connect with me:
 
-<p align="center">
+<div align="center">
   
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/developervijay)
 
@@ -47,7 +47,7 @@
 
   [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/developervijay7)
 
-</p>
+</div>
 
 
 ## Languages and Tools
