@@ -6,7 +6,7 @@
 
 ### I am a Full Stack Developer from India. I love to work on TALL Stack.
 
-- 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio.in), [Laravel-Icons](https://laravel-icons.com) [Laravel-QuickStart](https://laravel-quickstart.com)
+- 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio.in), [Laravel-Icons](https://laravel-icons.com), [Laravel-QuickStart](https://laravel-quickstart.com), [BLocator Business Search](https://www.blocator.in)
 
 - 🌱 I’m currently learning **[TailwindCSS](), [AlpineJS](), [Laravel](), [Livewire]()**
 
@@ -30,17 +30,21 @@
 ## Connect with me:
 
 <div align="center">
-    
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/developervijay)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/developervijay7)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/developervijay7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hexpit/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/developervijay)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VijayGoswamiIndia)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/developervijay7)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/developervijay7)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/developervijay7)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@developervijay)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hexpit)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developervijay7)
 
 </div>
+
 
 
 ## Languages and Tools
