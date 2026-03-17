@@ -6,21 +6,21 @@
 
 ### I am a Full Stack Developer from India. I love to work on TALL Stack.
 
-- 🔭 I’m currently working on [CollegeFind](https://collegefind.in), [Digifolio](https://digifolio.in), [Laravel-Icons](https://laravel-icons.com), [Laravel-QuickStart](https://laravel-quickstart.com), [BLocator Business Search](https://www.blocator.in)
+- 🔭 I’m currently working on [CollegeFind](https://collegefind.in?utm_source=github), [Digifolio](https://digifolio.in?utm_source=github), [Laravel-Icons](https://laravel-icons.com?utm_source=github), [Laravel-QuickStart](https://laravel-quickstart.com?utm_source=github), [BLocator Business Search](https://www.blocator.in?utm_source=github)
 
 - 🌱 I’m currently learning **[TailwindCSS](), [AlpineJS](), [Laravel](), [Livewire]()**
 
 - 👯 I’m looking to collaborate on [Laravel-QuickStart](https://github.com/attrixtech/laravel-icons)
 
-- 👨‍💻 All of my projects are available at [http://dashboard.attrixtech.com](http://dashboard.attrixtech.com)
+- 👨‍💻 All of my projects are available at [https://vijaygoswami.is-a.dev](https://vijaygoswami.is-a.dev?utm_source=github)
 
-- 📝 I regularly write articles on [https://technovij.com](https://technovij.com)
+- 📝 I regularly write articles on [https://technovij.com](https://technovij.com?utm_source=github)
 
 - 💬 Ask me about **php, reactjs, react-native, alpinejs, laravel, livewire, tailwindcss, vb.net, nextjs, aws**
 
 - 📫 How to reach me **vijaygoswami@attrixtech.com**
 
-- 📄 Know about my experiences [https://vijaygoswami.com?utm_source=github](https://vijaygoswami.com)
+- 📄 Know about my experiences [https://vijaygoswami.com](https://vijaygoswami.com?utm_source=github)
 
 <p>
     <a href="https://twitter.com/developervijay7" target="blank">
